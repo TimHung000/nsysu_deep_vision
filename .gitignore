@@ -191,3 +191,4 @@ pip-selfcheck.json
 cifar10/
 class_material/
 *.pdf
+*.zip
