@@ -192,3 +192,4 @@ cifar10/
 class_material/
 *.pdf
 *.zip
+datasets/
