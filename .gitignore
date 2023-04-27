@@ -193,3 +193,6 @@ class_material/
 *.pdf
 *.zip
 datasets/
+cross_section_images/
+testdata/
+data/
